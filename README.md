@@ -1,4 +1,4 @@
-# AIML Practicals
+# PYTHON Practicals
 
 This repository contains all Python practicals completed as part of my AIML lab syllabus.  
 The practicals are organized into three main sections:
